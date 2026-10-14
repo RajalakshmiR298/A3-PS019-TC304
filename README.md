@@ -25,7 +25,7 @@ It aims to identify personal-data fields, maintain a structured inventory, flag 
 
 ## Project Presentation
 
-**YouTube Video:** [Paste your YouTube presentation link here](https://youtu.be/m6gh2KkUAQU)
+**YouTube Video:** [A3-PS019-TC304_step7_video](https://youtu.be/m6gh2KkUAQU)
 
 ## Technology Stack
 
